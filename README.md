@@ -1,4 +1,4 @@
-# Hi
+# Hi! 👋
 
 I'm Vince, a full-stack developer with a university degree in software development and IT engineering. Don't ask why I spent five years in university—the best justification I have is that it gave me more time to tinker before stepping into the industry. Yet, like everyone with a similar experience, I learned more in the first six months of my first job than in those four years of university.
 
