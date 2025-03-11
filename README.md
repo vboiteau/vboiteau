@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi
 
-<!--
-**vboiteau/vboiteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vince, a full-stack developer with a university degree in software development and IT engineering. Don't ask why I spent five years in university—the best justification I have is that it gave me more time to tinker before stepping into the industry. Yet, like everyone with a similar experience, I learned more in the first six months of my first job than in those four years of university.
 
-Here are some ideas to get you started:
+I enough to do some cool stuff) about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* JS/TS
+* React
+* HTML Canvas
+* HTML/CSS
+* Docker
+* Rest API/OpenAPI
+* Java
+* Python/Django
+* Learning new things really fast
+* Vim/Neovim
+* And a bunch more things...
+
+I'm a jack of all threads, master of none, but I work with enough different technologies to avoid getting bllsh*tted by magical tech hype while picking up new skills quickly.
